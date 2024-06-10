@@ -1,0 +1,14 @@
+img {
+    height: 400px;
+    width: 40px;
+}
+img2 {
+    height: 3cm;
+    width: 3cm;
+    background-attachment: fixed;
+    background-image: https://media.istockphoto.com/id/1081869356/photo/taking-on-the-late-shift-with-true-dedication.jpg?s=1024x1024&w=is&k=20&c=BHWRYftmZ0QjelJJECJ5BcIgwH6vqPF904IslEZExCo=;
+}
+
+.student_form{
+    margin:60px;
+}
